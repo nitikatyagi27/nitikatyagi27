@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-Hi new GitHub Profile : https://github.com/Nit-code-droid
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,3 +16,4 @@ Hi new GitHub Profile : https://github.com/Nit-code-droid
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi new GitHub Profile : https://github.com/Nit-code-droid
